@@ -36,6 +36,7 @@ Go to the project directory
 - Cloned youtube video player (no iframe used)
 - videoplayer has PIP mode, full screen, volume and all the features that youtube video player provides
 - the pip mode works across different tabs also which is not in youtube
+- All youtube shortcuts are working !!
 
 ## 🤔 What i have learnt By working on this project
 1. Did a lot of research to create the preview for the video player
